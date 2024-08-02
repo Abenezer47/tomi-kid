@@ -1,5 +1,6 @@
 <!--
-**tomi-kid/tomi-kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abeni-kid/Abeni-kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,17 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2 align="center">Hi there 👋, I'm Tomas Ketema</h2>
+<h2 align="center">Hi there 👋, I'm Abenezer Matiwos</h2>
 <h5 align="center">I AM SOFTWARE ENGINEER</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomi-kid&label=Profile%20views&color=0e75b6&style=flat" alt="tomi-kid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abeni-kid&label=Profile%20views&color=0e75b6&style=flat" alt="Abeni-kid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomi-kid" alt="tomi-kid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomi-kid" alt="Abeni-kid" /></a> </p>
 
 - 🔭 I’m Graduated in **Computer Science**
 
-- 🔭 I’m Graduated in **ALX SOFTWARE ENGINEERING PROGRAM**
+- 🔭 I’m Graduated in **Google IT Support Specialist**
 
 - 🌱 I’m currently learning **C Programming, HTML/CSS, Linux and Git**
 
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux ,Vue,Graphql, Virtualization**
 
-- 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
-- portfolio **https://tomasketema.vercel.app/**
-- Gitlab **[https://gitlab.com/tomasketema](https://gitlab.com/tomasketema)**
+- 📫 How to reach me** www.linkedin.com/in/abenezer-matiwos-64677a18a**
+
+
 
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
@@ -56,10 +56,6 @@ Here are some ideas to get you started:
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomi-kid&show_icons=true&locale=en&layout=compact" alt="tomi-kid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomi-kid&" alt="tomi-kid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomi-kid&show_icons=true&locale=en" alt="tomi-kid" /></p>
 
 
